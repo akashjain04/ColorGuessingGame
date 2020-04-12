@@ -5,4 +5,4 @@ On successful selection the alert will be given and Background of the page turns
  This project is just a basic implementaion and does not use Bootstrap or any other frameworks.
  This project is built using HTML, CSS and JavaScript
  
-[This project preview is available here] (https://akashjain04.github.io/ColorGuessingGame/)
+[This project preview is available here](https://akashjain04.github.io/ColorGuessingGame/)
