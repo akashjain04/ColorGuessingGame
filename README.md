@@ -6,3 +6,5 @@ On successful selection the alert will be given and Background of the page turns
  This project is built using HTML, CSS and JavaScript
  
 [This project preview is available here](https://akashjain04.github.io/ColorGuessingGame/)
+
+[For any doubts about color name and color please click here](https://www.w3schools.com/colors/colors_names.asp)
