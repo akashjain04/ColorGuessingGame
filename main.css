@@ -1,0 +1,41 @@
+table{
+    align-content: center;
+}
+td{
+    width: 200px;
+    height: 200px;
+}
+button{
+    height: 200px;
+    width: 200px;
+    border-radius: 12px;
+}
+body{
+    background-color: black;
+}
+.header{
+    color: wheat;
+    background-color: black;
+    top: 0;
+    height: 200px;
+    align-content: center;
+}
+p{
+    font-size: 70px;
+    align-content: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#msg{
+    color: black;
+    font-size: 50px;
+    position: absolute;
+    top : 80px;
+    left: 600px;
+}
+#msg2{
+    color: black;
+    font-size: 30px;
+    position: absolute;
+    top : 60px;
+    left: 650px;
+}
